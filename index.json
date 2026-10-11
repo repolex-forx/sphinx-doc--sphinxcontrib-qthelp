@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinxcontrib-qthelp",
+  "versions": [
+    {
+      "commit": "783caf58e9ba9cf0450746b7f65d4bc8229ccd8f",
+      "tag": "2.0.0",
+      "parsed_at": "2026-10-11T23:25:41.986193+00:00"
+    }
+  ]
+}
