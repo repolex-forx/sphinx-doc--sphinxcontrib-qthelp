@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxcontrib-qthelp/commit/783caf58e9ba9cf0450746b7f65d4bc8229ccd8f",
       "git:hexsha": "783caf58e9ba9cf0450746b7f65d4bc8229ccd8f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0.0"
     },
     {
